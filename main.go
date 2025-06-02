@@ -9,7 +9,7 @@ import (
 )
 
 // constant with path of files to encrypt
-const TARGET_DIRECTORY = "/home/gsmdev/Documentos"
+const TARGET_DIRECTORY = "coloque aqui o caminho para os arquivos que deseja criptografar."
 
 const CAESAR_SHIFT = 3 // kay to encrypt
 
